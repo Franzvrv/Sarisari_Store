@@ -1,6 +1,6 @@
 # sarisari_store
 
-A new Flutter project.
+Sari-sari store manager where users can more easily manage their stock, debts, and transactions for their store.
 
 ## Getting Started
 
